@@ -12,7 +12,7 @@
 ## Skills
 - Independent and fast learner
 - Researchs before asking for help
-- Doesn't wait for a problem to grow to ask for help
+- Searches for help before a problem grows bigger
 - Always searching for improvement
 - Doesn't stress out too much on urgent projects
 - Pretends work is due tomorrow to keep work-flow
@@ -27,9 +27,9 @@
 - LOVES MUSIC
 - Plays guitar
 - Codes on free time
-- Want to buy a motorcycle (and obviously learn to ride it)
+- Wants to buy a motorcycle (and obviously learn to ride it)
 - LOVES Hamburgers
-- Codes for the fun
+- Codes for fun
 - Loves competitive (but friendly) environments
 - Gives (some) math, coding and electronics/embedded-electronics tutoring
 - Wants to learn higher level math
