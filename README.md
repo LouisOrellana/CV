@@ -6,7 +6,7 @@
   - Link: https://www.facebook.com/louis.orellanamorales/
 ## Education
 -	CBTis 21 => Electronics Technician (AGO/16 - JUN/19)
-    - NOTE: Still doing paperwork for the "cedula"
+    - NOTE: Still doing paperwork for the document
 -	Instituto Tecnológico de Mexicali => Electronic Engineering (AGO/19 - Currently studying)
 
 ## Skills
