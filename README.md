@@ -21,7 +21,8 @@
 - Comfortably works with Python, some C/C++, Java, C# and can work with Linux Distros (fav is Parrot OS)
 - Easily migrates to other languages
 - PCB design with EAGLE CAD
-- Can design embedded electronic systems with PIC and Arduino
+- Can design embedded electronic systems with PIC, Arduino and Raspberri Pi
+- Digital electronics design
 
 ## Personal Stuff
 - LOVES MUSIC
