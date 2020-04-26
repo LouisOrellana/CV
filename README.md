@@ -18,11 +18,14 @@
 - Pretends work is due tomorrow to keep work-flow
 
 ## Engineering Skills
-- Comfortably works with Python, some C/C++, Java, C# and can work with Linux Distros (fav is Parrot OS)
+- Comfortably works with Python, C/C++, some Java, C# and can work with Linux Distros (fav is Parrot OS)
 - Easily migrates to other languages
 - PCB design with EAGLE CAD
-- Can design embedded electronic systems with PIC, Arduino and Raspberri Pi
+- Can design embedded electronic systems (experience with  Arduino, Raspberri Pi and a bit of PIC)
+- Can work with SPI, UART and I2C
 - Digital electronics design
+- PCB assembly (soldering)
+- Use of electronic test equipment (multimeter, oscilloscope, digital logic probe, etc)
 
 ## Personal Stuff
 - LOVES MUSIC
