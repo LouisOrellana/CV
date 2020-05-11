@@ -21,7 +21,7 @@
 - Comfortably works with Python, C/C++, some Java, C# and can work with Linux Distros (fav is Parrot OS)
 - Easily migrates to other languages
 - PCB design with EAGLE CAD
-- Can design embedded electronic systems (experience with  Arduino, Raspberri Pi and a bit of PIC)
+- Can design embedded electronic systems (experience with  Arduino, Raspberry Pi and a bit of PIC)
 - Can work with SPI, UART and I2C
 - Digital electronics design
 - PCB assembly (soldering)
