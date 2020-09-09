@@ -1,6 +1,6 @@
 # Brandon L. Orellana (aka Louis Orellana)
 ## Contact Info
-- +52 (686) 542-64-10
+- +1 (760) 997-29-44
 - orellana.morales.louis@gmail.com
 - Louis Orellana (Facebook)
   - Link: https://www.facebook.com/louis.orellanamorales/
